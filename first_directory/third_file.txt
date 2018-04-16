@@ -4,3 +4,8 @@ This is the last file in project right now.
 
 We should stop with laying. It is enough.
 We really should take care about our constant.
+<<<<<<< HEAD
+=======
+
+Some new text to tryout our new braches features.
+>>>>>>> adding_text_to_set_new_branches
