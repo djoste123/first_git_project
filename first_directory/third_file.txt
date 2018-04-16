@@ -8,4 +8,9 @@ We really should take care about our constant.
 =======
 
 Some new text to tryout our new braches features.
+<<<<<<< Updated upstream
 >>>>>>> adding_text_to_set_new_branches
+=======
+
+type some text to try stash.
+>>>>>>> Stashed changes
