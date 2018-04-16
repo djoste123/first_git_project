@@ -4,5 +4,3 @@ This is the last file in project right now.
 
 We should stop with laying. It is enough.
 We really should take care about our constant.
-
-Adding something to see how we delete branches...
