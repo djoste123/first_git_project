@@ -14,3 +14,7 @@ Some new text to tryout our new braches features.
 
 type some text to try stash.
 >>>>>>> Stashed changes
+
+Type again some tecxt to try stash...
+
+I'm adding some text to push to remote repository on GitHUB...
